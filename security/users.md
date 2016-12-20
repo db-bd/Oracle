@@ -6,3 +6,8 @@
 ```sql
 >> select * from DBA_USERS;
 ```
+### Utility Commands
+```sql
+>>  select name from v$database;
+```
+

@@ -8,6 +8,7 @@
 ```
 ### Utility Commands
 ```sql
->>  select name from v$database;
+>> show user;
+>> select name from v$database;
 ```
 
